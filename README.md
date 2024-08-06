@@ -23,6 +23,7 @@ The backend service is located in the `servicio` directory and uses Node.js with
     cd servicio
 
 2. Install the dependencies: 
+    ```bash
     npm install
 
 3. Configure file .env
@@ -43,6 +44,7 @@ The frontend service is located in the `web` directory and use reactJs.
     cd web
 
 2. Install the dependencies: 
+    ```bash
     npm install
 
 4. Start the frontend service:
