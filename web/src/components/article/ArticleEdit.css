@@ -1,0 +1,52 @@
+
+.edit-article-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh; 
+    background-color: #f4f4f4; 
+    padding: 20px;
+  }
+  
+
+  .edit-article-form {
+    background-color: #fff; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    padding: 20px; 
+    width: 100%;
+    max-width: 600px;
+  }
+  
+ 
+  .edit-article-form label {
+    display: block; 
+    margin-bottom: 10px; 
+  }
+  
+
+  .edit-article-form input,
+  .edit-article-form textarea {
+    width: 100%; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+    border: 1px solid #ddd; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+  }
+  
+  
+  .edit-article-form button {
+    background-color: #007bff; 
+    color: white; 
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px; 
+    cursor: pointer; 
+    font-size: 16px; 
+  }
+  
+  .edit-article-form button:hover {
+    background-color: #0056b3; 
+  }
+

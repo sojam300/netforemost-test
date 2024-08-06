@@ -1,0 +1,35 @@
+.article-list {
+    padding: 20px;
+  }
+  
+  .article-list-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+
+  .new-article-container {
+    margin: 20px 20px;
+    display: flex;
+    
+    align-items: center;
+    text-align: right; 
+  }
+  
+  
+  .new-article-button {
+    margin: 10px;
+    background-color: #054d9a;
+    color: white; 
+    border: none;
+    padding: 10px 20px; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    font-size: 16px; 
+    text-decoration: none; 
+  }
+  
+  .new-article-button:hover {
+    background-color: #002b59; 
+  }
