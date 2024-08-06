@@ -1,5 +1,5 @@
 import ArticleList from "./components/article/ArticleList";
-import { Routes, Route } from "react-router-dom"; // Usa Routes en lugar de Switch para react-router-dom v6
+import { Routes, Route } from "react-router-dom";
 
 import EditArticle from "./components/article/ArticleEdit";
 import CreateArticle from "./components/article/ArticleCreate";
